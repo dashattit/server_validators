@@ -2,7 +2,7 @@
 
 
 use Illuminate\Database\Capsule\Manager as Capsule;
-use Validators\AbstractValidator;
+use dashattit\Validators\AbstractValidator;
 
 class UniqueValidator extends AbstractValidator
 {

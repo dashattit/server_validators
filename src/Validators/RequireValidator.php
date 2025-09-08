@@ -1,7 +1,7 @@
 <?php
 
 
-use Validators\AbstractValidator;
+use dashattit\Validators\AbstractValidator;
 
 class RequireValidator extends AbstractValidator
 {

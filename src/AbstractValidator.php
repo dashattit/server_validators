@@ -1,6 +1,6 @@
 <?php
 
-namespace Validators;
+namespace dashattit\Validators;
 
 abstract class AbstractValidator
 {
