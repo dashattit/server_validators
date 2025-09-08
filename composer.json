@@ -1,0 +1,21 @@
+{
+  "name": "dashattit/server_validators",
+  "description": "Validators for individual work",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dashattit",
+      "email": "dashyla.2021@mail.ru"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.4 | ^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Validators\\": "src/"
+    }
+  }
+}
