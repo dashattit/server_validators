@@ -1,8 +1,9 @@
 <?php
 
+namespace Validators;
 
+use Src\Validator\AbstractValidator;
 use Illuminate\Database\Capsule\Manager as Capsule;
-use dashattit\Validators\AbstractValidator;
 
 class UniqueValidator extends AbstractValidator
 {

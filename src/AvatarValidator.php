@@ -1,7 +1,8 @@
 <?php
 
+namespace Validators;
 
-use dashattit\Validators\AbstractValidator;
+use Src\Validator\AbstractValidator;
 
 class AvatarValidator extends AbstractValidator
 {
